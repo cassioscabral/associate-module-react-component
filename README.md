@@ -4,3 +4,6 @@ A standalone UI module to associate something to another thing. For example a li
 
 Mockup. Made with the great tool [Moqups](https://moqups.com/)
 ![alt tag](https://cloud.githubusercontent.com/assets/2073557/12620976/46145e20-c4fd-11e5-9090-9375370f9d6c.png)
+
+
+Example on [Codepen](http://codepen.io/cassioscabral/pen/XXqXRZ)
